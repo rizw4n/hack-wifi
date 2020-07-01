@@ -1,1 +1,1 @@
-# hack-wifi
+# hack-wifi.py
